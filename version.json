@@ -1,4 +1,6 @@
 {
     "MetatronRPG-String": "1.0 beta",
-    "MetatronRPG": "1"
+    "MetatronRPG": "1",
+    "MetatronAuth-String": "1.0 beta",
+    "MetatronAuth": "1"
 }
